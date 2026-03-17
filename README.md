@@ -25,4 +25,8 @@ PRECAUTION: -
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
+
+
+[ex 6.pdf](https://github.com/user-attachments/files/26059781/ex.6.pdf)
+
 RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
