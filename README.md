@@ -5,7 +5,7 @@ find the graphical relationship between the two.
 
 APPARATUS: - LVDT kit, Multimeter
 
-THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
+THEORY: - LVDT is basically a mutual inductance type transformer with variable coupling between the primary and two secondary coils. It is equivalent to E.Pick off in its operation except the reluctance of magnetic path is mostly due to air path. Uniformly wound over a certain length of transducer and two identical secondary coil systematically wound on either side of the primary coils and away from center. The iron rod is free to move inside the coil in either direction from the null point when primary coil is excitedly AC supply the induced emf of secondary are equal to each other with the core lying in null position. The secondary are connected in series with but in phase opposition so that resultant output voltage is zero.Displacement of core in either direction from     the null position results in output voltage as read by an AC rms voltmeter and it is observed that there is a residual voltage at the null position. Due to capacitance coupling between primary and secondary and the characteristics of a linear over a limited  displacement.
 
 DIAGRAM:
 CIRCUIT DIAGRAM
@@ -25,8 +25,14 @@ PRECAUTION: -
 3. To get the good performance from the kit, main room temperature.
 4. To check the power supply, it should be 220+!- 10% 50Hz to avoid voltage hazard.
 
+<img width="627" height="442" alt="image" src="https://github.com/user-attachments/assets/08c2fdcb-f504-4743-8df0-201e62100250" />
+
+<img width="613" height="424" alt="image" src="https://github.com/user-attachments/assets/dc3ad59a-d0d2-4922-ada4-0843d822022d" />
 
 
-[ex 6.pdf](https://github.com/user-attachments/files/26059781/ex.6.pdf)
+<img width="410" height="607" alt="image" src="https://github.com/user-attachments/assets/74f2076c-b96e-47f6-a71d-44961a984b71" />
+
+
+
 
 RESULT: - LVDT was studied well and graph of displacement was linear for a particular range.
